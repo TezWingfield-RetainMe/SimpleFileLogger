@@ -9,6 +9,7 @@ namespace Logger.CL
             string methodName,
             Exception ex)
         {
+
             var exceptionMessage = (ex.InnerException != null) 
                 ? ex.InnerException.Message : ex.Message;
 
