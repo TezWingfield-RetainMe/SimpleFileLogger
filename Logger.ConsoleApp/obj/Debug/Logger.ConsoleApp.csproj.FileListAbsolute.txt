@@ -1,0 +1,8 @@
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\obj\Debug\Logger.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\bin\Debug\Logger.ConsoleApp.exe.config
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\bin\Debug\Logger.ConsoleApp.exe
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\bin\Debug\Logger.ConsoleApp.pdb
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\bin\Debug\Logger.CL.dll
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\bin\Debug\Logger.CL.pdb
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\obj\Debug\Logger.ConsoleApp.exe
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.ConsoleApp\obj\Debug\Logger.ConsoleApp.pdb

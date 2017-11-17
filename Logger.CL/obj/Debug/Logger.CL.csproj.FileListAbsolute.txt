@@ -1,0 +1,5 @@
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.CL\bin\Debug\Logger.CL.dll
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.CL\bin\Debug\Logger.CL.pdb
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.CL\obj\Debug\Logger.CL.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.CL\obj\Debug\Logger.CL.dll
+C:\GitHubProjects\SimpleFileLoggerDemo\Logger\Logger.CL\obj\Debug\Logger.CL.pdb

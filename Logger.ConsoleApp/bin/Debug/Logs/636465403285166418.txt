@@ -1,0 +1,4 @@
+Class: Program.cs
+Method: Main();
+Date Added: 17/11/2017 18:32:08
+Exception: Attempted to divide by zero.
